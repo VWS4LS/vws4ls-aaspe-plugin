@@ -8,7 +8,7 @@ A detailed description of the results of the various subprojects can be found [h
 
 - Download a current release of the *AASPE* from [https://github.com/eclipse-aaspe/package-explorer/releases](https://github.com/eclipse-aaspe/package-explorer/releases). This plugin was tested against version *v2024-06-10.alpha* but newer releases should also work unless there are major changes in the plugin architecture.
 - Refer to the readme of *AASPE* for installation instructions.
-- Download the latest release of this plugin from the [releases](https://github.com/de-ich/vws4ls-aaspe-plugin/releases).
+- Download the latest release of this plugin from the [releases](https://github.com/vws4ls/vws4ls-aaspe-plugin/releases).
 - Unzip the contents of the plugin to the `plugins` folder of you *AASPE* installation.
 - Note: After that, your `plugins` folder should contain a folder `AasxPluginVws4ls`.
 
